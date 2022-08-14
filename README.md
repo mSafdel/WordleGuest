@@ -20,7 +20,7 @@ This app has text menu. these menus are:
 	we will use this section when i want to use Regex. do you know Regex?
 
 <b>Words without these chars</b></br>
-	select this menu for getting words without specific characters. 
+	select this menu for getting words that do not contain the specific letters
 
 <b>Exit</b></br>
 	choose it for exit from app (main loop)
@@ -29,3 +29,5 @@ This app has text menu. these menus are:
 <B>Roadmap</B>
 1. Complete the "Best Suggestion" section (Regex)
 2. Make GUI for app. ( will probably use PyQt)
+3. Complex search (Combine all options)
+
