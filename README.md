@@ -24,3 +24,8 @@ This app has text menu. these menus are:
 
 <b>Exit</b></br>
 	choose it for exit from app (main loop)
+
+
+<B>Roadmap</B>
+1. Complete the "est Suggestion" section (Regex)
+2. Make GUI for app. ( will probably use PyQt)
