@@ -22,5 +22,5 @@ This app has text menu. these menus are:
 <b>Words without these chars</b></br>
 	select this menu for getting words without specific characters. 
 
-Exit </br>
+<b>Exit</b></br>
 	choose it for exit from app (main loop)
