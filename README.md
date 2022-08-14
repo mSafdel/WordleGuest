@@ -27,5 +27,5 @@ This app has text menu. these menus are:
 
 
 <B>Roadmap</B>
-1. Complete the "est Suggestion" section (Regex)
+1. Complete the "Best Suggestion" section (Regex)
 2. Make GUI for app. ( will probably use PyQt)
